@@ -13,20 +13,10 @@
 - [ ] Configure a SVI for both 
 
 
-```
-jLabRouter
-or
-jLabRo
-
- system {
-     host-name jLab-r
-     login {
-         user ubnt {
-             authentication {
-FlNMczk7ZBKFq9Dqa2B
-                 plaintext-password ""
-             }
-             level admin
-         }
-     }
-```
+.. code-block:: python
+    # Example configuration for a router
+    Test {
+        Help Me
+    }
+    Test
+}
