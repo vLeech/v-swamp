@@ -13,10 +13,10 @@
 - [ ] Configure a SVI for both 
 
 
-.. code-block:: python
+``
     # Example configuration for a router
     Test {
         Help Me
     }
     Test
-}
+``
