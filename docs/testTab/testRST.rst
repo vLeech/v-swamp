@@ -1,6 +1,7 @@
 # Router Configuration Lab
-**Main Objective**: Configure a router to work with the Switch Lab; Start By configuring router first; only then move onto putting it on the network.
+**Main Objective**: 
 ===================
+Configure a router to work with the Switch Lab; Start By configuring router first; only then move onto putting it on the network.
 
 Objectives:
 ===========
@@ -22,9 +23,7 @@ Bonus:
 
 
 ``
-if {
-  code
-} then {
-  console.log("eat me");
+{
 }
 ``
+
