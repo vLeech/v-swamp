@@ -14,9 +14,8 @@
 
 
 ``
-    # Example configuration for a router
-    Test {
-        Help Me
-    }
-    Test
+{
+Test Wording
+}
 ``
+
